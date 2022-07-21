@@ -31,7 +31,7 @@ function FormikEditer(props: EditorFieldProps) {
       {label && <label>{label}</label>}
       <Editor
         {...otherProps}
-        apiKey="jb12i6p3jdt0oeipnd0l60gym5ehjx8t67dt4t49tcci14h8"
+        apiKey="rktd9r9ff49fniagtb9y88z8u0hlthrkyy0psg10rud9nbmc"
         init={{
           height: 500,
           menubar: false,
